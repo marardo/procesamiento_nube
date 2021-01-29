@@ -10,4 +10,4 @@ Para poder migrarlos a un storage de Amazon o Azures los datos públicos deben e
 
 *	Crear un nuevo proyecto, seleccionar opción Select a Project y dar clic sobre el botón **NEW PROJECT**
 
-     ![my_test_image](/files/tables/Captura1.PNG)
+     ![my_test_image](https://github.com/marardo/ciencia_datos/raw/main/images/Captura1.PNG)

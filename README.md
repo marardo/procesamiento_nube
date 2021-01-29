@@ -450,3 +450,27 @@ Para confirmar la creación de la tabla y validar datos realizar consulta de los
 
 
 
+#Construcción de reportes con Power BI Desktop
+
+Para conectar las tablas creadas en DataBricks se deben seguir los pasos
+
+*	Ir a la opción **Obtener datos** > Mas, Seleccionar la opción **Azure** y seleccionar el servicio **Azure Databricks**
+
+ ![my_test_image](https://github.com/marardo/procesamiento_nube/raw/main/images/Captura77.PNG) 
+
+*	El servicio de Azure Databricks pide los datos de conexión del Cluster de Databricks, para obtenerlos vaya a Databricks seleccione la opción cluster, despliegue el cluster activo, ir a la opción JDBC; Copiar los campos respectivos tal como se muestra en la imagen. Dar clic en **aceptar**.
+
+ ![my_test_image](https://github.com/marardo/procesamiento_nube/raw/main/images/Captura78.PNG) 
+
+*	Autenticarse con la opción de Username/Passwrod, ingresar Nombre de usuario y contraseña. Dar clic sobre el botón **Conectar**
+
+ ![my_test_image](https://github.com/marardo/procesamiento_nube/raw/main/images/Captura79.PNG) 
+
+*	Seleccionar las dos tablas creadas en DataBricks casos_us, casos_x_pais, Dar clic en **cargar**
+ 
+ ![my_test_image](https://github.com/marardo/procesamiento_nube/raw/main/images/Captura80.PNG) 
+ 
+*	Se crean los gráficos que resuelven las preguntas
+
+![my_test_image](https://github.com/marardo/procesamiento_nube/raw/main/images/Captura81.PNG) 
+
